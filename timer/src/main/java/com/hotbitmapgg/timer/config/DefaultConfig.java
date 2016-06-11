@@ -21,9 +21,9 @@ public class DefaultConfig
 
     public static String SECOND = "秒";
 
-    public static final int TV_NORMAL_COLOR = 0xff7d8691;
+    public static final int TV_NORMAL_COLOR = 0xFFB8B8B8;
 
-    public static final int TV_SELECTOR_COLOR = 0XFFB8B8B8;
+    public static final int TV_SELECTOR_COLOR = 0XFF7d8691;
 
     public static final int TV_SIZE = 20;
 
