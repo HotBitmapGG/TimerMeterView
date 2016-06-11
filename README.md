@@ -16,4 +16,4 @@
 
 ## 截图
 
-![](https://github.com/HotBitmapGG/TimerMeterView/blob/TimerMeterView/photo/pic/photo_1.jpg?raw=true)
+![](https://github.com/HotBitmapGG/TimerMeterView/blob/TimerMeterView/photo/photo_1.jpg?raw=true)
