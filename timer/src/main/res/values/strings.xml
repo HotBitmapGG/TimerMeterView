@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="picker_sure">Sure</string>
+    <string name="picker_cancel">Cancel</string>
+    <string name="picker_title">TimePicker</string>
+
+    <string name="picker_year">Year</string>
+    <string name="picker_month">Month</string>
+    <string name="picker_day">Day</string>
+    <string name="picker_hour">Hour</string>
+    <string name="picker_minute">Minute</string>
+    <string name="picker_second">Second</string>
+
+</resources>

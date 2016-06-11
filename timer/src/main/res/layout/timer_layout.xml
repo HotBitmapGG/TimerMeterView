@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:orientation="vertical">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/picker_height">
+
+        <LinearLayout
+            android:id="@+id/linear_wheel"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/picker_height"
+            android:layout_gravity="center_horizontal"
+            android:background="@android:color/white"
+            android:orientation="horizontal">
+
+
+            <com.hotbitmapgg.timer.wheel.WheelView
+                android:id="@+id/hour"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0" />
+
+            <com.hotbitmapgg.timer.wheel.WheelView
+                android:id="@+id/minute"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0" />
+
+            <com.hotbitmapgg.timer.wheel.WheelView
+                android:id="@+id/second"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0" />
+        </LinearLayout>
+
+
+    </FrameLayout>
+
+
+</LinearLayout>
+
+
